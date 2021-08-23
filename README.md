@@ -1,5 +1,5 @@
 # one-thing
-An interactive installation inspired by the artist's fear of death. Hopes, dreams, and goals were displayed at the NYUAD’s Art Center’s The Cube, encouraging participants to share their aspirations with the public and do things they have always wanted to do before dying.
+An interactive installation inspired by <a href="https://isabellaperalta.com/">the artist</a>'s fear of death. Hopes, dreams, and goals were displayed at the NYUAD’s Art Center’s The Cube, encouraging participants to share their aspirations with the public and do things they have always wanted to do before dying.
 
 One Thing incorporated user input through its website, which was created using HTML, CSS, and PHP. Participants from anywhere in the world could submit their answers online (with a short form) or in-person (with pen and paper), adding an international aspect to this project. 
 
@@ -7,6 +7,6 @@ One Thing incorporated user input through its website, which was created using H
 
 <p>Find a list of answers <a href="https://docs.google.com/document/d/179ETQAirtX9QY_AFI0jtgrQdzxhCl6gUtz1v0IEpJd4/edit">here</a>.
 
-<p>Read an interview with <a href="https://isabellaperalta.com/">the artist</a> <a href="https://www.thegazelle.org/issue/95/in-focus/one-thing-2">here</a>.
+<p>Read an interview with the artist <a href="https://www.thegazelle.org/issue/95/in-focus/one-thing-2">here</a>.
 
 <p> Visit the website <a href="https://isabellaperalta.github.io/one-thing/">here</a>.
