@@ -7,6 +7,6 @@ One Thing incorporated user input through its website, which was created using H
 
 <p>Find a list of answers <a href="https://docs.google.com/document/d/179ETQAirtX9QY_AFI0jtgrQdzxhCl6gUtz1v0IEpJd4/edit">here</a>.
 
-<p>Read an interview with the artist <a href="https://www.thegazelle.org/issue/95/in-focus/one-thing-2">here</a>.
+<p>Read an interview with <a href="https://isabellaperalta.com/">the artist</a> <a href="https://www.thegazelle.org/issue/95/in-focus/one-thing-2">here</a>.
 
 <p> Visit the website <a href="https://isabellaperalta.github.io/one-thing/">here</a>.
